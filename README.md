@@ -29,10 +29,10 @@ To achieve the objectives, the following concepts and tests are employed:
 - Relationship Analysis: Establish relationships between the dependent variable (Count) and independent variables (Workingday, Weather, Season, etc.).
 
 - Hypothesis Testing: Use appropriate tests to evaluate:
--- The effect of working days on the number of electric cycles rented.
--- Differences in the number of cycles rented across different seasons.
--- Differences in the number of cycles rented under various weather conditions.
--- Dependency of weather on the season.
+  - The effect of working days on the number of electric cycles rented.
+  - Differences in the number of cycles rented across different seasons.
+  - Differences in the number of cycles rented under various weather conditions.
+  - Dependency of weather on the season.
 
 - Statistical Tests: Perform tests including normality and equal variance checks (Histogram, Q-Q plot, Levene’s test, Shapiro-Wilk test).
 - Significance Testing: Set a significance level, calculate test statistics, and decide whether to accept or reject null hypotheses.
